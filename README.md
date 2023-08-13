@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [test](https://github.com/hilim9/Test)
+<!-- - [test](https://github.com/hilim9/Test) -->
 
 <!--
 **hilim9/hilim9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
